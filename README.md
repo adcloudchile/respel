@@ -1,6 +1,5 @@
-# Inventio Max
-Sistema de inventario y ventas profesional
-Link: http://evilnapsis.com/product/inventio-max/
+
+Sistema de inventario para residuos peligrosos
 
 ## Modulos
 
@@ -12,5 +11,3 @@ Link: http://evilnapsis.com/product/inventio-max/
 - Finanzas
 - Reportes
 - y Mucho mas
-
-`Powered By Evilnapsis`"# respel" 
